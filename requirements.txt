@@ -1,3 +1,4 @@
+app==0.01
 appdirs==1.4.4
 certifi==2021.5.30
 click==8.0.1
